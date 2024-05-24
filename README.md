@@ -24,7 +24,6 @@ twitter机器人, twitter逆向, twitter hook, twitter脚本 发消息, 拦截�
 
 # 联系方式
 
-飞机✈️: feifeilove888888
 
 wx: love111_feifeifei
 
